@@ -47,6 +47,12 @@ npm run seed
 ```
 
 5. Create a .env file similar to the env.example provided in the root directory.
+
+-It should look like this:
+```
+ACCESS_TOKEN_SECRET=XXXXXX
+REFRESH_TOKEN_SECRET=XXXXXX
+```
 You can generate the two secrets by using these commands in your terminal:
 ```
 node
