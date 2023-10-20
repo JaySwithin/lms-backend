@@ -1,5 +1,3 @@
-# Simple Loan Management System
-
 ## Prerequisites
 
 Before running the application, ensure that the following software is installed on your system:
